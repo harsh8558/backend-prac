@@ -1,0 +1,19 @@
+{
+  "name": "prac-backend",
+  "version": "1.0.0",
+  "description": "this is my first server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Express",
+    "server"
+  ],
+  "author": "Harsh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
